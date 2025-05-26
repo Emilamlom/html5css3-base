@@ -1,3 +1,5 @@
+**NOTE: This is an old repo. I haven't touched it in years and it likely needs to be updated some (like the default jquery call)
+
 # My Base Skeleton for Web Design Projects (Change this)
 
 Saves me time and get me up and running on a client project quickly. Designed to be cloned and renamed, but repositories stay local to my computer and don't get pushed to github (since I don't have an account with private repos).
